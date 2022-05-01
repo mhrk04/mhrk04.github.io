@@ -584,11 +584,6 @@ The syntax for embedding a tweet is then:
 
 Which is much shorter than the corresponding HTML!
 
-So to add my above tweet to our blog post, edit the `content/blog/my-first-post.md` file again and add the following code to the end of the file.
-
-```
-{{< tweet 1390312389346828291 >}}
-```
 
 All together, the file now looks like this.
 
