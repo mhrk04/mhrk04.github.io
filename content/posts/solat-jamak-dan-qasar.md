@@ -6,7 +6,7 @@ showToc: true
 TocOpen: true
 tags: ["Solat Jamak dan Qasar","Musafir"]
 cover:
-    image: "https://www.facebook.com/photo.php?fbid=329475262556784&set=a.229683419202636&type=3&eid=ARCqSWf_jwed5-qORff7OpstiqVq-5E-qt-FYCA74_NOb3PL1gyExSeiSkiXXEtCH0c-ZMvswHXENMwO&__xts__%5B0%5D=68.ARCJt5OJoo6CZVFMd5xASPI1vZTRApOTwv6I209pnzvBg7gsKK2bYRqwvERFxwC1zlckQ01SZ23uj4lJHKklqNsk-Vb2ipmxPEzSh-FXq9WuW93TvAeL78S91Jet1wxTfK1Sce7zqacsyh-REfQULIwx6YYDUDuBOaJQIdkwszmlErggqD_TQu8f7tWyU85vPTa0QfmuxyiCM5MF78lh0Gjq5FqfirBfm3xFx_NM_udIJYCppKNDqI72ae4-Ff8pwiSNrhhaw1T3wLZMQELS1etE6TcgBiXZBFy2o1hjBapRgfLAvJw&__tn__=EEHH-R" # image path/url
+    image: "https://scontent.fkul16-1.fna.fbcdn.net/v/t39.30808-6/274664182_329236862580624_5139771163282523408_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=0Qt_J9HZSJkAX_muIE5&_nc_ht=scontent.fkul16-1.fna&oh=00_AT_yfMRK-EkK1ZSG152bGNz5t4t0ecbSgZegnEuRpTf11g&oe=6272BFDA" # image path/url
     alt: "cover image" 
 ---
 
