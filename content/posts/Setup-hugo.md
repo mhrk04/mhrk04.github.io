@@ -576,14 +576,6 @@ All we need to embed this tweet into our blog post is the tweet ID, or the **num
 | :---: |
 | The ID of a tweet is the numerical section of the URL |
 
-The syntax for embedding a tweet is then:
-
-```
-{{< tweet TWEET_ID_HERE >}}
-```
-
-Which is much shorter than the corresponding HTML!
-
 
 All together, the file now looks like this.
 
