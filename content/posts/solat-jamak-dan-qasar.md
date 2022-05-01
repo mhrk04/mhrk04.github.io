@@ -36,16 +36,16 @@ Solat jamak dan qasar adalah suatu keringanan yang diberi oleh Allah SWT kepada 
 Solat qasar bermaksud **memendekkan solat daripada 4 rakaat menjadi 2 rakaat.**
 
 Solat yang boleh dipendekkan (qasar) :
-    [X] Solat Zohor
-    [X] Solat Asar
-    [X] Solat Isyak.
+    - ✔️ Solat Zohor
+    - ✔️ Solat Asar
+    - ✔️ Solat Isyak.
 
 ## Syarat-syarat Solat Qasar
 
-[X] Solat fardhu yang diqasarkan berkenaan wajib ke atas seseorang yang bermusafir dan melakukannya semasa bermusafir
-[X] Perjalanannya telah melepasi sempadan qaryah
-[X] Tidak berniat menetap selama 4 hari atau lebih di tempat yang dituju (tak termasuk hari datang & pulang).
-[X] Tidak mengikuti imam solat yang bermukim.
+- ✔️ Solat fardhu yang diqasarkan berkenaan wajib ke atas seseorang yang bermusafir dan melakukannya semasa bermusafir
+- ✔️ Perjalanannya telah melepasi sempadan qaryah
+- ✔️ Tidak berniat menetap selama 4 hari atau lebih di tempat yang dituju (tak termasuk hari datang & pulang).
+- ✔️ Tidak mengikuti imam solat yang bermukim.
 
 <p align="center">
   <img src="https://ecentral.my/wp-content/uploads/2022/04/SOLAT-JAMAK-QASAR-2-1024x1024.jpg" />
