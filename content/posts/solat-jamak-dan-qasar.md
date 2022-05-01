@@ -6,7 +6,7 @@ showToc: true
 TocOpen: true
 tags: ["Solat Jamak dan Qasar","Musafir"]
 cover:
-    image: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fnadz.my%2Fsolat-jamak-dan-qasar%2F&psig=AOvVaw2RLkNsl2AsMdzOka6ljAzk&ust=1651488682998000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJiV3PyQvvcCFQAAAAAdAAAAABAJ" # image path/url
+    image: "https://www.facebook.com/photo.php?fbid=329475262556784&set=a.229683419202636&type=3&eid=ARCqSWf_jwed5-qORff7OpstiqVq-5E-qt-FYCA74_NOb3PL1gyExSeiSkiXXEtCH0c-ZMvswHXENMwO&__xts__%5B0%5D=68.ARCJt5OJoo6CZVFMd5xASPI1vZTRApOTwv6I209pnzvBg7gsKK2bYRqwvERFxwC1zlckQ01SZ23uj4lJHKklqNsk-Vb2ipmxPEzSh-FXq9WuW93TvAeL78S91Jet1wxTfK1Sce7zqacsyh-REfQULIwx6YYDUDuBOaJQIdkwszmlErggqD_TQu8f7tWyU85vPTa0QfmuxyiCM5MF78lh0Gjq5FqfirBfm3xFx_NM_udIJYCppKNDqI72ae4-Ff8pwiSNrhhaw1T3wLZMQELS1etE6TcgBiXZBFy2o1hjBapRgfLAvJw&__tn__=EEHH-R" # image path/url
     alt: "cover image" 
 ---
 

@@ -41,7 +41,7 @@ params :
     profileMode:
         enabled: true
         title: "Mhaziqrk Log" # optional default will be site title
-        subtitle: "Just contain daily log of my work and something shit.\n
+        subtitle: "Just contain daily log of my work and personal note.\n
         This website uses two languages, English and Malay🇲🇾.
         Everyday learn new technology!"
         imageUrl: "favicon.ico" # optional
