@@ -603,7 +603,7 @@ Other shortcodes you will find useful:
 - [`figure`](https://gohugo.io/content-management/shortcodes/) for linking an image from a URL
 - [`ref` and `relref`](https://gohugo.io/content-management/shortcodes/) for creating links within your blog, such as to another post or section of a post
 
-:::info
+**info**
 :wave: Want to add your own image to your site by committing it to GitHub? Add it to the `static/images` folder, as we did with the profile picture. You can then include the image using the standard Markdown syntax `![image_alt_text](images/my_image.png)`
 :::
 
