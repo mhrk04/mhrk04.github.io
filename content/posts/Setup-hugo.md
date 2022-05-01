@@ -601,7 +601,6 @@ draft: false
 
 Hello World! :earth_africa:
 
-{{< tweet 1390312389346828291 >}}
 ```
 
 Save and close the file, then rerun `hugo server` and visit `http://localhost:1313` in your browser again. The tweet won't show up in the short summary of the blog post on the homepage, but if you click through, it should be embedded in the full blog page! :tada: 
