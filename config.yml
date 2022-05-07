@@ -2,7 +2,7 @@ baseURL: https://log.mhaziqrk.uk/
 languageCode: en-us
 title: Mhaziqrk Log
 theme : PaperMod 
-defaultContentLanguage: ms
+defaultContentLanguage: en
 copyright : "Hak Milik Mhaziqrk."
 params : 
     env: production
