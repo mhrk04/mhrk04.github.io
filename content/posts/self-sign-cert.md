@@ -4,12 +4,16 @@ date: 2022-05-12T20:54:03+08:00
 draft: false
 showToc: true
 TocOpen: true
+author:  "Christian Lempa"
 tags: ["ssl","self sign certificate"]
 cover:
     image: "https://upload.wikimedia.org/wikipedia/commons/5/5d/1258X489_How-SSL-Certificates-Work.jpg" # image path/url
     alt: "ssl-cert-flow" # alt text
 
 ---
+
+{{< youtube VH4gXcvkmOY >}}
+
 
 # SSL Certificates Cheat-Sheet
 
