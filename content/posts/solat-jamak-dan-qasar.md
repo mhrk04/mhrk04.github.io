@@ -6,7 +6,7 @@ showToc: true
 TocOpen: true
 tags: ["Solat Jamak dan Qasar","Musafir"]
 cover:
-    image: "https://scontent.fkul16-1.fna.fbcdn.net/v/t39.30808-6/274664182_329236862580624_5139771163282523408_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=0Qt_J9HZSJkAX_muIE5&_nc_ht=scontent.fkul16-1.fna&oh=00_AT_yfMRK-EkK1ZSG152bGNz5t4t0ecbSgZegnEuRpTf11g&oe=6272BFDA" # image path/url
+    image: "https://ecentral.my/wp-content/uploads/2022/04/solat-jamak-qasar-1-1.jpg" # image path/url
     alt: "cover image" 
 ---
 
