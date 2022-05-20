@@ -11,15 +11,36 @@ tags: ["Ubuntu"]
 #     caption: "<text>" 
 ---
 
-# Use your Laptop As A Server
+# Use Your Laptop As A Server
+
+> Tested on : Ubuntu 20.04 LTS
 
 To disable entering the sleep mode I had to edit the `/etc/systemd/logind.conf` file and modify the line:
 
 **Just uncomment the line by removing `#`**
 
+from this :
+
 ```
 #HandleLidSwitch=suspend
 #LidSwitchIgnoreInhibited=no
 #HandleLidSwitchDocked=ignore
+```
+
+to this :
 
 ```
+HandleLidSwitch=ignore
+LidSwitchIgnoreInhibited=no
+HandleLidSwitchDocked=ignore
+```
+
+
+Then restart the OS via:
+
+```
+sudo service systemd-logind restart
+```
+
+
+Then you can close the laptop lid .
