@@ -35,12 +35,10 @@ LidSwitchIgnoreInhibited=no
 HandleLidSwitchDocked=ignore
 ```
 
-
 Then restart the OS via:
 
 ```
 sudo service systemd-logind restart
 ```
-
 
 Then you can close the laptop lid .
