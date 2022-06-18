@@ -33,6 +33,8 @@ params :
           url: "https://twitter.com/haziqrohaizan" 
         - name: "telegram"
           url: "https://t.me/mhrk04"
+        - name: "youtube"
+          url: "https://www.youtube.com/channel/UCj38keOzG0iHUbgs9vD1HwA"
          
     cover :
       linkFullImages : true
