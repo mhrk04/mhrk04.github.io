@@ -27,6 +27,8 @@ params :
     socialIcons: # optional
         - name: "Instagram"
           url: "http://ig.mhaziqrk.uk"
+        - name: "Linkedin"
+          url: "https://www.linkedin.com/in/mhaziqrk/"
         - name: "Github"
           url: "https://github.com/mhrk04"
         - name: "Twitter"
