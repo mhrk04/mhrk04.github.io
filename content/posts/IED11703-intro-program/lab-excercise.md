@@ -15,7 +15,7 @@ cover:
 
 > Upload to [Unikl VLE](https://vle.unikl.edu.my/mod/assign/view.php?id=909975)
 
-> Solution : (Github)[https://github.com/mhrk04/INTRODUCTION-TO-PROGRAMMING-IED11703/tree/main/20220827]
+> Solution : [Github](https://github.com/mhrk04/INTRODUCTION-TO-PROGRAMMING-IED11703/tree/main/20220827)
 
 > Due date: ***Friday, 2nd September 2022***
 
