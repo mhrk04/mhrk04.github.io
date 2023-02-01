@@ -45,16 +45,16 @@ params :
 
     profileMode:
         enabled: true
-        title: "Mhaziqrk Log" # optional default will be site title
-        subtitle: "Just contain daily log of my work and personal note. The content on this website is mix with two languages, English and Malay🇲🇾.
+        title: "Mhaziqrk Blog" # optional default will be site title
+        subtitle: "Just contain daily log of my work and personal note. The content on this website is mix with two languages, English and Malay.
         Everyday learn new technology!"
-        imageUrl: "favicon.ico" # optional
+        imageUrl: "ME-DIRI-IMG_9140-1.JPG" # optional
         # imageTitle: "<title of image as alt>" # optional
         # imageWidth: 120 # custom size
         # imageHeight: 120 # custom size
         buttons:
-            - name: Posts
-              url: posts
+            - name: Karaoke
+              url: "https://www.smule.com/mhaziqrk"
         assets:
               # disableHLJS: true # to disable highlight.js
               # disableFingerprinting: true
@@ -70,18 +70,14 @@ outputs:
 menu:
   main:
     - identifier: Archives
-      name: archives
+      name: Archives
       url: /archives/
       weight: 10
     - identifier: tags
-      name: tags
+      name: Tags
       url: /tags/
       weight: 20
     - identifier: search
-      name: search
+      name: Search
       url: /search/
       weight: 30
-    - identifier: posts
-      name: posts
-      url: /posts/
-      weight: 40
