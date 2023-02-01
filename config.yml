@@ -45,16 +45,16 @@ params :
 
     profileMode:
         enabled: true
-        title: "Mhaziqrk Log" # optional default will be site title
-        subtitle: "Just contain daily log of my work and personal note. The content on this website is mix with two languages, English and Malay🇲🇾.
+        title: "Mhaziqrk Blog" # optional default will be site title
+        subtitle: "Just contain daily log of my work and personal note. The content on this website is mix with two languages, English and Malay.
         Everyday learn new technology!"
         imageUrl: "ME-DIRI-IMG_9140-1.JPG" # optional
         # imageTitle: "<title of image as alt>" # optional
         # imageWidth: 120 # custom size
         # imageHeight: 120 # custom size
         buttons:
-            - name: Posts
-              url: posts
+            - name: Karaoke
+              url: "https://www.smule.com/mhaziqrk"
         assets:
               # disableHLJS: true # to disable highlight.js
               # disableFingerprinting: true
