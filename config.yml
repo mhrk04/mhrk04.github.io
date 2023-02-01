@@ -70,18 +70,14 @@ outputs:
 menu:
   main:
     - identifier: Archives
-      name: archives
+      name: Archives
       url: /archives/
       weight: 10
     - identifier: tags
-      name: tags
+      name: Tags
       url: /tags/
       weight: 20
     - identifier: search
-      name: search
+      name: Search
       url: /search/
       weight: 30
-    - identifier: posts
-      name: posts
-      url: /posts/
-      weight: 40
