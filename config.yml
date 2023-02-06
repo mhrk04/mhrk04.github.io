@@ -81,3 +81,8 @@ menu:
       name: Search
       url: /search/
       weight: 30
+
+sitemap:
+  changefreq: monthly
+  filename: sitemap.xml
+  priority: 0.5
