@@ -83,6 +83,6 @@ menu:
       weight: 30
 
 sitemap:
-  changefreq: monthly
+  changefreq: always
   filename: sitemap.xml
-  priority: 0.5
+  priority: 0.8
