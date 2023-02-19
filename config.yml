@@ -26,7 +26,7 @@ params :
 
     socialIcons: # optional
         - name: "Instagram"
-          url: "http://ig.mhaziqrk.uk"
+          url: "https://www.instagram.com/mhaziqrk/"
         - name: "Linkedin"
           url: "https://www.linkedin.com/in/mhaziqrk/"
         - name: "Github"
@@ -55,6 +55,8 @@ params :
         buttons:
             - name: Karaoke
               url: "https://www.smule.com/mhaziqrk"
+            - name: Post
+              url: "posts"
         assets:
               # disableHLJS: true # to disable highlight.js
               # disableFingerprinting: true
