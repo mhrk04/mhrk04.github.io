@@ -1,8 +1,9 @@
-baseURL: https://mhaziqrk.uk/
+baseURL: https://www.mhaziqrk.uk/
 languageCode: en-us
-title: Mhaziqrk Log
+title: Mhaziqrk Blog
 theme : PaperMod 
 defaultContentLanguage: en
+copyright : "Hak Milik Mhaziqrk."
 params : 
     env: production
     disableScrollToTop: false
@@ -25,13 +26,17 @@ params :
 
     socialIcons: # optional
         - name: "Instagram"
-          url: "http://ig.mhaziqrk.uk"
+          url: "https://www.instagram.com/mhaziqrk/"
+        - name: "Linkedin"
+          url: "https://www.linkedin.com/in/mhaziqrk/"
         - name: "Github"
           url: "https://github.com/mhrk04"
         - name: "Twitter"
           url: "https://twitter.com/haziqrohaizan" 
         - name: "telegram"
           url: "https://t.me/mhrk04"
+        - name: "youtube"
+          url: "https://www.youtube.com/channel/UCj38keOzG0iHUbgs9vD1HwA"
          
     cover :
       linkFullImages : true
@@ -40,17 +45,18 @@ params :
 
     profileMode:
         enabled: true
-        title: "Mhaziqrk Log" # optional default will be site title
-        subtitle: "Just contain daily log of my work and something shit.\n
-        This website uses two languages, English and Malay🇲🇾.
+        title: "Mhaziqrk Blog" # optional default will be site title
+        subtitle: "Just contain daily log of my work and personal note. The content on this website is mix with two languages, English and Malay.
         Everyday learn new technology!"
-        imageUrl: "favicon.ico" # optional
+        imageUrl: "ME-DIRI-IMG_9140-1.JPG" # optional
         # imageTitle: "<title of image as alt>" # optional
         # imageWidth: 120 # custom size
         # imageHeight: 120 # custom size
         buttons:
-            - name: Posts
-              url: posts
+            - name: Karaoke
+              url: "https://www.smule.com/mhaziqrk"
+            - name: Post
+              url: "posts"
         assets:
               # disableHLJS: true # to disable highlight.js
               # disableFingerprinting: true
@@ -66,18 +72,19 @@ outputs:
 menu:
   main:
     - identifier: Archives
-      name: archives
+      name: Archives
       url: /archives/
       weight: 10
     - identifier: tags
-      name: tags
+      name: Tags
       url: /tags/
       weight: 20
     - identifier: search
-      name: search
+      name: Search
       url: /search/
       weight: 30
-    - identifier: posts
-      name: posts
-      url: /posts/
-      weight: 40
+
+sitemap:
+  changefreq: always
+  filename: sitemap.xml
+  priority: 0.8
