@@ -3,7 +3,6 @@ languageCode: en-us
 title: Mhaziqrk Blog
 theme : PaperMod 
 defaultContentLanguage: en
-copyright : "Hak Milik Mhaziqrk."
 params : 
     env: production
     disableScrollToTop: false
