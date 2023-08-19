@@ -48,7 +48,7 @@ params :
         title: "Mhaziqrk Blog" # optional default will be site title
         subtitle: "Just contain daily log of my work and personal note. The content on this website is mix with two languages, English and Malay.
         Everyday learn new technology!"
-        imageUrl: "ME-DIRI-IMG_9140-1.JPG" # optional
+        imageUrl: "ME-DIRI-IMG_9140-1.JPEG" # optional
         # imageTitle: "<title of image as alt>" # optional
         # imageWidth: 120 # custom size
         # imageHeight: 120 # custom size
