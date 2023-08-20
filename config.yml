@@ -7,6 +7,12 @@ params :
     env: production
     disableScrollToTop: false
 
+    
+    editPost:
+        URL: "https://github.com/mhrk04/mhrk04.github.io/tree/update-papermod/content"
+        Text: "Suggest Changes" # edit text
+        appendFilePath: true # to append file path to Edit link
+
     keywords: [Blog, Portfolio, Tech, IT]
     ShowCodeCopyButtons : true
     ShowShareButtons: true
