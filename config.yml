@@ -67,7 +67,7 @@ params :
               # disableFingerprinting: true
               favicon: "/favicon.ico"
               favicon16x16: "/favicon.ico"
-              favicon32x32: "</favicon.ico"
+              favicon32x32: "/favicon.ico"
 outputs:
     home:
         - HTML
