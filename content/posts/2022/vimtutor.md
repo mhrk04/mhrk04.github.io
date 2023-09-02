@@ -4,10 +4,8 @@ date: 2022-05-06T18:57:05+08:00
 draft: false
 showToc: true
 TocOpen: true
-tags: ["Vim","Tutorial","English Content"]
-cover:
-    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1022px-Vimlogo.svg.png" # image path/url
-    alt: "vim logo" # alt text
+tags: ["Vim"]
+
 ---
 > Base On : VIM  Tutor - Version 1.7 **Copied version**
 

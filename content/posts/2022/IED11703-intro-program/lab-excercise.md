@@ -5,10 +5,7 @@ draft: false
 showToc: true
 TocOpen: false
 tags: ["IED11703 - INTRODUCTION TO PROGRAMMING"]
-cover:
-    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" # image path/url
-    alt: "c++" # alt text
-    # caption: "<text>" 
+
 ---
 
 # Lab Excercises

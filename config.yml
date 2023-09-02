@@ -13,7 +13,7 @@ params :
         Text: "Suggest Changes" # edit text
         appendFilePath: true # to append file path to Edit link
 
-    keywords: [Blog, Portfolio, Tech, IT]
+    keywords: [Blog, Portfolio, Tech, IT, Techtips,Tutorial]
     ShowCodeCopyButtons : true
     ShowShareButtons: true
     ShowReadingTime: true
@@ -45,7 +45,7 @@ params :
          
     cover :
       linkFullImages : true
-      responsiveImages: false
+      responsiveImages: true
 
 
     profileMode:
@@ -92,4 +92,4 @@ menu:
 sitemap:
   changefreq: always
   filename: sitemap.xml
-  priority: 0.8
+  priority: 1.0
