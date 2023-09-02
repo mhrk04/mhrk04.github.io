@@ -7,7 +7,13 @@ params :
     env: production
     disableScrollToTop: false
 
-    keywords: [Blog, Portfolio, Tech, IT]
+    
+    editPost:
+        URL: "https://github.com/mhrk04/mhrk04.github.io/tree/update-papermod/content"
+        Text: "Suggest Changes" # edit text
+        appendFilePath: true # to append file path to Edit link
+
+    keywords: [Blog, Portfolio, Tech, IT, Techtips,Tutorial]
     ShowCodeCopyButtons : true
     ShowShareButtons: true
     ShowReadingTime: true
@@ -39,7 +45,7 @@ params :
          
     cover :
       linkFullImages : true
-      responsiveImages: false
+      responsiveImages: true
 
 
     profileMode:
@@ -61,7 +67,7 @@ params :
               # disableFingerprinting: true
               favicon: "/favicon.ico"
               favicon16x16: "/favicon.ico"
-              favicon32x32: "</favicon.ico"
+              favicon32x32: "/favicon.ico"
 outputs:
     home:
         - HTML
@@ -86,4 +92,4 @@ menu:
 sitemap:
   changefreq: always
   filename: sitemap.xml
-  priority: 0.8
+  priority: 1.0

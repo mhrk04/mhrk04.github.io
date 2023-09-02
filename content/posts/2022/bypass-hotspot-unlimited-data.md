@@ -4,11 +4,8 @@ date: 2022-05-04T20:18:30+08:00
 draft: false
 showToc: true
 TocOpen: false
-tags: ["Mobile Data","Hotspot"]
-cover:
-    image: "https://scontent.fkul4-2.fna.fbcdn.net/v/t1.6435-9/65504877_452578658875147_953493524374880256_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=feRYryg-nK0AX_9m4Cg&_nc_ht=scontent.fkul4-2.fna&oh=00_AT-Ovyp5vINSoECSpIQOmWQV1eLdHnxhGqDRFL6EbOhpTA&oe=62988FB6" # image path/url
-    alt: "just pic from other site" # alt text
-    caption: "<text>" 
+tags: ["Mobile Data"]
+
 ---
 
 > Cara ini terpakai kepada semua simkad yang mempunyai plan unlimited data tetapi hotspot **tidak dibenarkan.**
