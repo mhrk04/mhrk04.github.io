@@ -3,7 +3,7 @@ title: "Introduce New Logo"
 date: 2023-09-02T09:30:22+08:00
 # weight: 1
 # aliases: ["/first"]
-tags: ["Announcement"]
+tags: ["News"]
 author: "Haziq Rohaizan"
 # author: ["Me", "You"] # multiple authors
 showToc: false

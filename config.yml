@@ -13,7 +13,7 @@ params :
         Text: "Suggest Changes" # edit text
         appendFilePath: true # to append file path to Edit link
 
-    keywords: [Blog, Portfolio, Tech, IT, Techtips,Tutorial,Linux,Windows,Android]
+    keywords: [Blog, Portfolio, Tech, IT, Techtips, Tutorial, Linux, Windows, Android]
     ShowCodeCopyButtons : true
     ShowShareButtons: true
     ShowReadingTime: true
@@ -51,17 +51,11 @@ params :
     profileMode:
         enabled: true
         title: "Mhaziqrk Blog" # optional default will be site title
-        subtitle: "Just contain daily log of my work and personal note. The content on this website is mix with two languages, English and Malay.
-        Everyday learn new technology!"
+        subtitle: "Everyday learn new technology!"
         imageUrl: "ME-DIRI-IMG_9140-1.JPEG" # optional
         # imageTitle: "<title of image as alt>" # optional
         # imageWidth: 120 # custom size
         # imageHeight: 120 # custom size
-        buttons:
-            - name: Karaoke
-              url: "https://www.smule.com/mhaziqrk"
-            - name: Post
-              url: "posts"
         assets:
               # disableHLJS: true # to disable highlight.js
               # disableFingerprinting: true
@@ -76,18 +70,22 @@ outputs:
 
 menu:
   main:
+    - identifier: Posts
+      name: Posts
+      url: /posts/
+      weight: 10
     - identifier: Archives
       name: Archives
       url: /archives/
-      weight: 10
+      weight: 20
     - identifier: tags
       name: Tags
       url: /tags/
-      weight: 20
+      weight: 30
     - identifier: search
       name: Search
       url: /search/
-      weight: 30
+      weight: 40
 
 sitemap:
   changefreq: always
