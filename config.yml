@@ -13,7 +13,7 @@ params :
         Text: "Suggest Changes" # edit text
         appendFilePath: true # to append file path to Edit link
 
-    keywords: [Blog, Portfolio, Tech, IT, Techtips,Tutorial]
+    keywords: [Blog, Portfolio, Tech, IT, Techtips,Tutorial,Linux,Windows,Android]
     ShowCodeCopyButtons : true
     ShowShareButtons: true
     ShowReadingTime: true
