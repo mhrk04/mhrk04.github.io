@@ -4,7 +4,7 @@ date: 2022-04-29T22:25:02+08:00
 draft: false
 showToc: true
 TocOpen: false
-tags: ["IT","Sains Komputer","XAMPP"]
+tags: ["IT"]
 cover:
     image: "img/cover-page-design.png" 
 

@@ -5,7 +5,7 @@ draft: false
 showToc: true
 TocOpen: true
 author:  "Christian Lempa"
-tags: ["ssl","self sign certificate"]
+tags: ["Linux"]
 cover:
     image: "https://upload.wikimedia.org/wikipedia/commons/5/5d/1258X489_How-SSL-Certificates-Work.jpg" # image path/url
     alt: "ssl-cert-flow" # alt text

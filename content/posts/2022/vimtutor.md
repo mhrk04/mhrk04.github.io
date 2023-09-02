@@ -4,7 +4,7 @@ date: 2022-05-06T18:57:05+08:00
 draft: false
 showToc: true
 TocOpen: true
-tags: ["Vim"]
+tags: ["Linux"]
 
 ---
 > Base On : VIM  Tutor - Version 1.7 **Copied version**

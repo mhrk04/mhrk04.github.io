@@ -5,10 +5,7 @@ draft: false
 showToc: true
 TocOpen: false
 tags: ["IED11703 - INTRODUCTION TO PROGRAMMING"]
-# cover:
-#     image: "<image path/url>" # image path/url
-#     alt: "<alt text>" # alt text
-#     caption: "<text>" 
+
 ---
 
 # Quiz - INTRODUCTION TO PROGRAMMING(MCQ)
