@@ -4,11 +4,8 @@ date: 2022-05-12T17:44:36Z
 draft: false
 showToc: true
 TocOpen: false
-tags: ["Ubuntu"]
-# cover:
-#     image: "<image path/url>" # image path/url
-#     alt: "<alt text>" # alt text
-#     caption: "<text>" 
+tags: ["Linux"]
+
 ---
 
 # Use Your Laptop As A Server

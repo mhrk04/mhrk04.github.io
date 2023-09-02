@@ -4,7 +4,7 @@ date: 2022-05-20T16:11:26+08:00
 draft: false
 showToc: true
 TocOpen: false
-tags: ["Ubuntu","Linux"]
+tags: ["Linux"]
 # cover:
 #     image: "<image path/url>" # image path/url
 #     alt: "<alt text>" # alt text

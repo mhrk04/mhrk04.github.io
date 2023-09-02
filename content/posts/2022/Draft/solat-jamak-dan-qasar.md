@@ -1,10 +1,9 @@
 ---
 title: "Solat Jamak Dan Qasar : Panduan, Syarat & Niat (JAKIM)"
 date: 2022-05-01T18:18:12+08:00
-draft: false
+draft: True
 showToc: true
 TocOpen: true
-tags: ["Solat Jamak dan Qasar","Musafir"]
 cover:
     image: "https://ecentral.my/wp-content/uploads/2022/04/solat-jamak-qasar-1-1.jpg" # image path/url
     alt: "cover image" 
