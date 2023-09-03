@@ -58,5 +58,4 @@ Bard is still under development, but it is a powerful tool that can be used for 
 
 If you want to export Bard's responses to a Markdown file, you can use the [Bard CLI](https://github.com/Alfex4936/Bard-rs). This CLI is a simple command line interface that allows you to interact with Bard from the terminal.
 
-To use the Bard CLI, you first need to install it. You can do this by running the following command:
 
