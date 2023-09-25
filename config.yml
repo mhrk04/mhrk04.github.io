@@ -47,7 +47,6 @@ params :
       linkFullImages : true
       responsiveImages: true
 
-
     profileMode:
         enabled: true
         title: "Mhaziqrk Blog" # optional default will be site title
@@ -56,6 +55,9 @@ params :
         # imageTitle: "<title of image as alt>" # optional
         # imageWidth: 120 # custom size
         # imageHeight: 120 # custom size
+        buttons:
+          - name: Git Notes
+            url: "/gitmaster"
         assets:
               # disableHLJS: true # to disable highlight.js
               # disableFingerprinting: true
