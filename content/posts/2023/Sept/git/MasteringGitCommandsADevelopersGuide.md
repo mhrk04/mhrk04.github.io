@@ -1,10 +1,11 @@
 ---
 title: "Mastering Git Commands: A Developer's Guide"
 date: 2023-09-25T00:34:30+08:00
+weight: 1
 tags: ["Git","Linux"]
 author: "Haziq Rohaizan"
 showToc: true
-TocOpen: false
+TocOpen: true
 draft: false
 hidemeta: false
 hideSummary: false
@@ -25,9 +26,6 @@ editPost:
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 ---
-
-
-# Mastering Git Commands: A Developer's Guide
 
 ![Git Logo](https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png)
 
