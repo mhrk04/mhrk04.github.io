@@ -23,7 +23,7 @@ cover:
     caption: "New Icon" # display caption under cover
     relative: false # when using page bundles set this to true
 editPost:
-    URL: "https://github.com/mhrk04/mhrk04.github.io/tree/main/content"
+    URL: "https://github.com/mhrk04/mhrk04.github.io/edit/main/content/"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 ---
