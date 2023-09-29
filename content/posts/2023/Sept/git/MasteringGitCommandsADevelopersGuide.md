@@ -1,5 +1,5 @@
 ---
-title: "Mastering Git Commands: A Developer's Guide"
+title: "Mastering Git Commands: Part 1"
 date: 2023-09-25T00:34:30+08:00
 weight: 1
 tags: ["Git","Linux"]
