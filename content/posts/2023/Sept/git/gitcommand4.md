@@ -39,7 +39,7 @@ To revert a commit:
 $ git revert <commit_hash>
 ```
 
-## 12. Git Cherry-Pick Range
+## Git Cherry-Pick Range
 
 Cherry-picking multiple commits within a range is also possible. You can specify a range of commits to pick, making it a powerful way to transfer changes from one branch to another.
 
