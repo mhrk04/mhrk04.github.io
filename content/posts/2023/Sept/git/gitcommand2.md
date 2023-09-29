@@ -1,5 +1,5 @@
 ---
-title: "Advanced Git Commands: Part 2"
+title: "Mastering Git Commands: Part 2"
 date: 2023-09-25T08:20:12+08:00
 weight: 2
 tags: ["Git","Linux"]
