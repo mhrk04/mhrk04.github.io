@@ -58,6 +58,9 @@ params :
         buttons:
           - name: Git Notes
             url: "/gitmaster"
+          - name: Data Science for Beginners
+            url: "/data-science-for-beginners"
+            
         assets:
               # disableHLJS: true # to disable highlight.js
               # disableFingerprinting: true
