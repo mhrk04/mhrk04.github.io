@@ -1,13 +1,11 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
-# weight: 1
-# aliases: ["/first"]
+weight: 1
 tags: ["first"]
-author: "Me"
-# author: ["Me", "You"] # multiple authors
+author: ["Haziq Rohaizan"]
 showToc: true
-TocOpen: false
+TocOpen: true
 draft: false
 hidemeta: false
 hideSummary: false
