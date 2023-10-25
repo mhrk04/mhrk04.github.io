@@ -58,8 +58,8 @@ params :
         buttons:
           - name: Git Notes
             url: "/gitmaster"
-          - name: Data Science for Beginners
-            url: "/data-science-for-beginners"
+          - name: Computer Network Note
+            url: "/net-note"
           - name: OS Admin Note
             url: "/os-admin"
             
