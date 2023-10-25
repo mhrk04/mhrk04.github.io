@@ -58,7 +58,7 @@ params :
         buttons:
           - name: Git Notes
             url: "/gitmaster"
-          - name: Computer Network Note
+          - name: Computer Network Notes
             url: "/net-note"
           - name: OS Admin Note
             url: "/os-admin"
