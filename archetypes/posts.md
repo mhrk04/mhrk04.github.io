@@ -4,6 +4,7 @@ date: {{ .Date }}
 weight: 1
 tags: ["first"]
 author: ["Haziq Rohaizan"]
+description: ""
 showToc: true
 TocOpen: true
 draft: false
