@@ -9,7 +9,7 @@ params :
     description: "Daily learn new technology! Deep dive into the world of technology with Haziq Rohaizan. This site is a collection of my notes and thoughts on various topics. I hope you find them useful."
     
     editPost:
-        URL: "https://github.com/mhrk04/mhrk04.github.io/edit/main/content/"
+        URL: "https://github.com/mhrk04/mhrk04.github.io/edit/update-papermod/content/"
         Text: "Suggest Changes" # edit text
         appendFilePath: true # to append file path to Edit link
 
