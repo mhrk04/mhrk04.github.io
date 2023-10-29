@@ -1,8 +1,8 @@
 ---
 title: "How to Install Transmission and How to Use Torrents"
 date: 2023-10-29T10:49:10+08:00
-description: "This blog post explains what torrents are, provides instructions on installing the Transmission client on Windows, macOS, and Linux, and guides users on how to use Transmission for torrenting."
-tags: ["Windows","Torrent","Linux","MacOS]
+description: "Explains what torrents are, provides instructions on installing the Transmission client on Windows, macOS, and Linux, and guides users on how to use Transmission for torrenting."
+tags: ["Windows","Torrent","Linux","MacOS"]
 author: ["Haziq Rohaizan"]
 showToc: true
 TocOpen: true
