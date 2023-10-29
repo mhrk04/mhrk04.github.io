@@ -4,6 +4,7 @@ date: 2023-10-29T01:59:39Z
 weight: 3
 tags: ["Linux","VirtualBox","Fedora"]
 author: ["Haziq Rohaizan"]
+description: "Contain Assignment for UniKL student who take Operating system admin subject"
 showToc: true
 TocOpen: true
 draft: false
@@ -46,6 +47,8 @@ editPost:
 ##	Installation of Fedora 38
 
 >  Use torrent for fastest download speed.
+
+> [More About Torrent](/posts/2023/oct/how-to-install-transmission-and-how-to-use-torrents/)
 
 ### Download ISO file
 
