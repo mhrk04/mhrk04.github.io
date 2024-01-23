@@ -34,3 +34,13 @@ UseHugoToc: true
 
 
 ## Generate passphrase-less SSH keys 
+
+```bash
+ssh-keygen
+```
+
+## Send the public key
+
+```bash
+ssh-copy-id production1@serverb
+```
