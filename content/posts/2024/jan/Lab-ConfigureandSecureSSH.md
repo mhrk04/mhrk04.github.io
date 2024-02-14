@@ -6,7 +6,7 @@ author: ["Haziq Rohaizan"]
 description: "Configure ssh on linux securely with best practice"
 showToc: true
 TocOpen: true
-draft: false
+draft: true
 hidemeta: false
 hideSummary: false
 ShowReadingTime: true
