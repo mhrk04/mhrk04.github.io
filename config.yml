@@ -3,11 +3,15 @@ languageCode: en-us
 title: Mhaziqrk Blog
 theme : PaperMod 
 defaultContentLanguage: en
+
+enableRobotsTXT: true
+
 params : 
     env: production
     disableScrollToTop: false
     description: "Daily learn new technology! Deep dive into the world of technology with Haziq Rohaizan. This site is a collection of my notes and thoughts on various topics. I hope you find them useful."
-    
+    comments: true
+
     editPost:
         URL: "https://github.com/mhrk04/mhrk04.github.io/edit/update-papermod/content/"
         Text: "Suggest Changes" # edit text
