@@ -55,7 +55,7 @@ params :
         enabled: true
         title: "Mhaziqrk Blog" # optional default will be site title
         subtitle: "Everyday learn new technology!"
-        imageUrl: "ME-DIRI-resize.jpg" # optional
+        imageUrl: "me.webp" # optional
         # imageTitle: "<title of image as alt>" # optional
         # imageWidth: 120 # custom size
         # imageHeight: 120 # custom size
