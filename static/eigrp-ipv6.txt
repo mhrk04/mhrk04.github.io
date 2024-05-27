@@ -1,0 +1,87 @@
+no ip domain-lookup
+
+
+!R1
+interface GigabitEthernet0/0
+ipv6 address FE80::1 link-local
+ipv6 address 2001:DB8:ACAD:A::1/64
+no Sh
+interface Serial0/0/0
+no ip address
+ipv6 address FE80::1 link-local
+ipv6 address 2001:DB8:ACAD:12::1/64
+clock rate 128000
+no sh 
+interface Serial0/0/1
+ipv6 address FE80::1 link-local
+ipv6 address 2001:DB8:ACAD:13::1/64
+no sh 
+
+!R2 
+interface GigabitEthernet0/0
+ipv6 address FE80::2 link-local
+ipv6 address 2001:DB8:ACAD:B::1/64
+no sh 
+interface Serial0/0/0
+ipv6 address FE80::2 link-local
+ipv6 address 2001:DB8:ACAD:12::2/64
+no sh 
+interface Serial0/0/1
+ipv6 address FE80::2 link-local
+ipv6 address 2001:DB8:ACAD:23::2/64
+clock rate 2000000
+no sh 
+!R3
+interface GigabitEthernet0/0
+ipv6 address FE80::3 link-local
+ipv6 address 2001:DB8:ACAD:C::1/64
+no sh
+interface Serial0/0/0
+ipv6 address FE80::3 link-local
+ipv6 address 2001:DB8:ACAD:13::3/64
+clock rate 2000000
+no sh
+interface Serial0/0/1
+ipv6 address FE80::3 link-local
+ipv6 address 2001:DB8:ACAD:23::3/64
+no sh
+
+
+interface g0/0
+ipv6 eigrp 1
+interface s0/0/0
+ipv6 eigrp 1
+interface s0/0/1
+ipv6 eigrp 1
+
+ipv6 router eigrp 1
+passive-interface g0/0
+
+R2(config)# ipv6 router eigrp 1
+R2(config-rtr)# passive-interface g0/0
+
+ipv6 router eigrp 1
+passive-interface default
+
+
+ipv6 router eigrp 1
+no passive-interface s0/0/0
+no passive-interface s0/0/1
+
+
+enable secret class   
+line console 0
+password cisco   
+login
+logging synchronous  
+exit
+line vty 0 4
+password cisco   
+login
+logging synchronous  
+exit
+banner motd #Welcome to R2. Unauthorized access is prohibited!#   
+do write memory 
+
+
+
