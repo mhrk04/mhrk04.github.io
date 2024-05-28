@@ -72,6 +72,17 @@ UseHugoToc: true
 ```
 hostname R1
 no ip domain-lookup
+
+enable secret class
+line console 0
+  password cisco
+  logging synchronous
+  login
+line vty 0 4
+  password cisco
+  login
+banner motd ^ Unauthorized access is prohibited. ^
+
 interface Loopback0
 ip address 209.165.10.1 255.255.255.0
 
@@ -107,6 +118,15 @@ ip route 0.0.0.0 0.0.0.0 Loopback0
 hostname R2
 
 no ip domain-lookup
+enable secret class
+line console 0
+  password cisco
+  logging synchronous
+  login
+line vty 0 4
+  password cisco
+  login
+banner motd ^ Unauthorized access is prohibited. ^
 
 interface Loopback5
  ip address 200.100.11.1 255.255.255.192
@@ -141,10 +161,17 @@ router ospf 1
  router-id 2.2.2.2
  log-adjacency-changes
  passive-interface GigabitEthernet0/0
+ passive-interface GigabitEthernet0/0.1
+ passive-interface GigabitEthernet0/0.10
+ passive-interface GigabitEthernet0/0.20
  network 192.168.10.0 0.0.0.3 area 0
  network 192.168.10.8 0.0.0.3 area 0
- network 200.100.11.0 0.0.0.255 area 0
- network 172.16.1.0 0.0.0.255 area 0
+ network 200.100.11.0 0.0.0.63 area 0
+ network 200.100.11.64 0.0.0.63 area 0
+ network 200.100.11.128 0.0.0.31 area 0
+ network 172.16.1.0 0.0.0.127 area 0
+ network 172.16.1.128 0.0.0.63 area 0
+ network 172.16.1.192 0.0.0.31 area 
 
 ```
 
@@ -154,6 +181,15 @@ router ospf 1
 hostname R3
 
 no ip domain-lookup
+enable secret class
+line console 0
+  password cisco
+  logging synchronous
+  login
+line vty 0 4
+  password cisco
+  login
+banner motd ^ Unauthorized access is prohibited. ^
 !
 interface Loopback8
  ip address 200.100.12.1 255.255.255.128
@@ -183,10 +219,17 @@ router ospf 1
  router-id 3.3.3.3
  log-adjacency-changes
  passive-interface GigabitEthernet0/0
+ passive-interface GigabitEthernet0/0.1
+ passive-interface GigabitEthernet0/0.30
+ passive-interface GigabitEthernet0/0.40
  network 192.168.10.4 0.0.0.3 area 0
  network 192.168.10.8 0.0.0.3 area 0
- network 200.100.12.0 0.0.0.255 area 0
- network 172.16.0.0 0.0.255.255 area 0
+ network 200.100.12.0 0.0.0.127 area 0
+ network 200.100.12.128 0.0.0.63 area 0
+ network 200.100.12.192 0.0.0.31 area 0
+ network 172.16.2.0 0.0.0.63 area 0
+ network 172.16.2.64 0.0.0.31 area 0
+ network 172.16.2.128 0.0.0.15 area 0
 ```
 
 ### S1 Configs
