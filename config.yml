@@ -47,6 +47,8 @@ params :
           url: "https://t.me/mhrk04"
         - name: "youtube"
           url: "https://www.youtube.com/channel/UCj38keOzG0iHUbgs9vD1HwA"
+        - name: "credly"
+          url: "https://www.credly.com/users/muhammad-haziq-bin-rohaizan/badges"
          
     cover :
       linkFullImages : true
