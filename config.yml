@@ -69,7 +69,9 @@ params :
             url: "/net-note"
           - name: OS Admin Note
             url: "/os-admin"
-            
+          - name: Cisco IOS Cheat Sheet
+            url: "/cisco-ios"
+        
         assets:
               # disableHLJS: true # to disable highlight.js
               # disableFingerprinting: true
