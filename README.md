@@ -9,7 +9,7 @@ This site just contain of my personal blog and some of my notes.
 ## Progress
 
 - [X] Comments Section
-- [ ] Google Analytics
+- [X] Google Analytics
 - [X] SEO
 - [X] Sitemap
 - [ ] Adsense

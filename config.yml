@@ -60,7 +60,7 @@ params :
         enabled: true
         title: "Mhaziqrk Blog" # optional default will be site title
         subtitle: "Everyday learn new technology!"
-        imageUrl: "me.webp" # optional
+        imageUrl: "me-2024.avif" # optional
         # imageTitle: "<title of image as alt>" # optional
         # imageWidth: 120 # custom size
         # imageHeight: 120 # custom size
@@ -71,8 +71,8 @@ params :
             url: "/net-note"
           - name: OS Admin Note
             url: "/os-admin"
-          - name: Cisco IOS Cheat Sheet
-            url: "/cisco-ios"
+          - name: MLSA
+            url: "/mlsa"
         
         assets:
               # disableHLJS: true # to disable highlight.js
