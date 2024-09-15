@@ -1,5 +1,5 @@
 ---
-title: "Charp Freecodecamp"
+title: "New Foundational C# Certification with freeCodeCamp"
 date: 2024-09-15T01:25:47Z
 weight: 3
 tags: ["Freecodecamp","Microsoft Learn", "C#"]
