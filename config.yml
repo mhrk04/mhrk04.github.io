@@ -96,10 +96,10 @@ menu:
       name: Archives
       url: /archives/
       weight: 20
-    - identifier: tags
-      name: Tags
-      url: /tags/
-      weight: 30
+    # - identifier: tags
+    #   name: Tags
+    #   url: /tags/
+      # weight: 30
     - identifier: search
       name: Search
       url: /search/
