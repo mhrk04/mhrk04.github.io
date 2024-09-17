@@ -1,7 +1,7 @@
 ---
 title: "Data Science for Beginners - A Curriculum"
 date: 2023-10-05T08:06:08+08:00
-tags: ["Data Science","Python","Machine Learning","Data Analysis","Data Visualization","Data Enginee"]
+tags: ["Data Science","Python","Machine Learning","Data Analysis","Data Visualization","Data Engineer"]
 author: ["Microsoft","Jasmine Greenaway", "Dmitry Soshnikov", "Nitya Narasimhan", "Jalen McGee", "Jen Looper", "Maud Levy", "Tiffany Souterre", "Christopher Harrison"]
 # author: ["Me", "You"] # multiple authors
 showToc: true

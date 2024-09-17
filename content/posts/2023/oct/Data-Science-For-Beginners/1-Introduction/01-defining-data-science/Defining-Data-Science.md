@@ -2,7 +2,7 @@
 title: "Defining Data Science"
 date: 2023-10-05T08:56:51+08:00
 weight: 1
-tags: ["Data Science","Python","Machine Learning","Data Analysis","Data Visualization","Data Enginee"]
+tags: ["Data Science","Python","Machine Learning","Data Analysis","Data Visualization","Data Engineer"]
 author: "Dmitry Soshnikov"
 # author: ["Me", "You"] # multiple authors
 showToc: true
