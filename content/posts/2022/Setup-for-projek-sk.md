@@ -48,7 +48,8 @@ Tetapkan User Snippets:
 2. Tekan *New Global Snippets* , kemudian type nama snippet **"html.json"**
 
 Salin `html.json` ini :
-```
+
+```json
 {
 	"PHP Tag": {
 		"prefix": "php",
