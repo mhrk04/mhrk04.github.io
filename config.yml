@@ -65,6 +65,8 @@ params :
         # imageWidth: 120 # custom size
         # imageHeight: 120 # custom size
         buttons:
+          - name: News Feed
+            url: "https://rss.mhaziqrk.uk"
           - name: Computer Network Notes
             url: "/net-note"
           - name: MLSA
