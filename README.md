@@ -31,3 +31,5 @@ git submodule update --init --recursive # needed when you reclone your repo (sub
 ```bash
 git submodule update --remote --merge
 ```
+
+***Testing commit with sign key***
