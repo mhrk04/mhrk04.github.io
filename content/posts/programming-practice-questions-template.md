@@ -1,7 +1,7 @@
 ---
 title: "Programming Practice Questions Template"
 date: 2024-01-20T22:26:00Z
-weight: 1
+weight: 1000
 tags: ["Programming", "Practice", "MCQ", "Template"]
 author: ["Haziq Rohaizan"]
 description: "Template for programming practice questions with MCQ format and dropdown answers"
