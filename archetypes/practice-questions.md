@@ -175,5 +175,4 @@ function example() {
 
 ---
 
-**Template created by:** Haziq Rohaizan  
-**Last updated:** 2024-01-20
+**Template created by:** Haziq Rohaizan
