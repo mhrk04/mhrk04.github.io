@@ -1,0 +1,83 @@
+/* MCQ Practice Questions Styling */
+
+/* CSS Variables for consistent color management */
+:root {
+    --mcq-primary-color: #007bff;
+    --mcq-primary-hover: #0056b3;
+    --mcq-success-color: #28a745;
+    --mcq-border-color: #ddd;
+    --mcq-bg-light: #f5f5f5;
+    --mcq-bg-open: #e8f4f8;
+}
+
+/* Style for the details/summary dropdown */
+details {
+    background-color: var(--mcq-bg-light);
+    border: 2px solid var(--mcq-border-color);
+    border-radius: 8px;
+    padding: 15px;
+    margin: 20px 0;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+details:hover {
+    border-color: var(--mcq-primary-color);
+    box-shadow: 0 2px 8px rgba(0, 123, 255, 0.1);
+}
+
+details[open] {
+    background-color: var(--mcq-bg-open);
+    border-color: var(--mcq-primary-color);
+}
+
+summary {
+    font-weight: bold;
+    color: var(--mcq-primary-color);
+    cursor: pointer;
+    padding: 5px;
+    user-select: none;
+    outline: none;
+}
+
+summary:hover {
+    color: var(--mcq-primary-hover);
+}
+
+summary::marker {
+    color: var(--mcq-primary-color);
+}
+
+/* Answer content inside details */
+details > *:not(summary) {
+    margin-top: 15px;
+    padding: 10px;
+    background-color: white;
+    border-radius: 5px;
+    border-left: 4px solid var(--mcq-success-color);
+}
+
+/* Question styling */
+.question-block {
+    background-color: #fafafa;
+    border-left: 4px solid var(--mcq-primary-color);
+    padding: 20px;
+    margin: 30px 0;
+    border-radius: 5px;
+}
+
+/* Dark mode support */
+@media (prefers-color-scheme: dark) {
+    :root {
+        --mcq-primary-color: #4a90e2;
+        --mcq-primary-hover: #6bb6ff;
+        --mcq-success-color: #4caf50;
+        --mcq-border-color: #444;
+        --mcq-bg-light: #2d2d2d;
+        --mcq-bg-open: #1a3a4a;
+    }
+    
+    details > *:not(summary) {
+        background-color: #1e1e1e;
+    }
+}
